@@ -1,13 +1,13 @@
 {
-  "title": "Kubernetes 1node",
-  "description": "Use a simple one node Kubernetes cluster and let user list all pods",
+  "title": "Pod Scenario",
+  "description": "Use a simple one node Kubernetes cluster and let user create pods",
   "details": {
     "intro": {
       "text": "intro.md"
     },
     "steps": [
       {
-        "title": "List all pods",
+        "title": "Create a Pod",
         "text": "step1.md"
       }
     ],

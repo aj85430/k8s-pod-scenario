@@ -1,4 +1,4 @@
-Welcome !
-In this scenario we'll learn how to list all pods in the cluster.
+Hi
 
-HAVE FUN
+In this scenario we'll learn how to create a pod.
+

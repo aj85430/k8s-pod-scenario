@@ -1,1 +1,1 @@
-Run k get pod -A{{exec}}
+Create a Pod named mars using image nginx.
